@@ -18,17 +18,17 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Devendra Dhaked",
-      url: "https://devendra.vercel.app",
+      url: "https://dhakeddevendra5.vercel.app",
     },
   ],
   creator: "Devendra Dhaked",
   referrer: "origin-when-cross-origin",
   keywords: keywords,
-  metadataBase: new URL("https://devendra.vercel.app"),
+  metadataBase: new URL("https://dhakeddevendra5.vercel.app"),
 
   // SEO Enhancements
   alternates: {
-    canonical: "https://devendra.vercel.app",
+    canonical: "https://dhakeddevendra5.vercel.app",
   },
   icons: {
     icon: [
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     title: "Devendra Dhaked",
     description:
       "Explore Devendra Dhaked’s portfolio featuring projects in React, Next.js, AI, and developer tools. Discover a world of creative web applications and open-source experiments.",
-    url: "https://devendra.vercel.app",
+    url: "https://dhakeddevendra5.vercel.app",
     siteName: "Devendra Dhaked",
     images: [
       {
