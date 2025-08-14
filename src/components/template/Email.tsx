@@ -62,14 +62,14 @@ export function EmailTemplate({
             <Row>
               <Column style={{ width: "40px" }}>
                 <Img
-                  src="https://raw.githubusercontent.com/aarabii/An/refs/heads/master/public/images/logo.png"
-                  alt="AN"
+                  src="https://github.com/dhakeddevendra5/DD/blob/main/public/images/logo.png"
+                  alt="DD"
                   width="40"
                   height="40"
                 />
               </Column>
               <Column>
-                <Text style={brandText}>Aarab Nishchal</Text>
+                <Text style={brandText}>Devendra Dhaked</Text>
               </Column>
             </Row>
           </Section>

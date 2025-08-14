@@ -35,7 +35,7 @@ export const selfData = {
   socials_username: {
     facebook: "",
     github: "dhakeddevendra5",
-    instagram: "",
+    instagram: "dhakedddevendra5",
     leetcode: "dhakeddevendra5",
     linkedin: "dhakeddevendra5",
     snapchat: "",
