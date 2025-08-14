@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Resume - Devendra Dhaked",
     description:
       "View and download Devendra Dhaked's professional resume featuring his experience and skills as a student developer.",
-    url: "https://devendra.vercel.app/resume",
+    url: "https://dhakeddevendra5.vercel.app/resume",
     siteName: "Devendra Dhaked",
     images: [
       {
