@@ -4,7 +4,7 @@ export const projectsData = [
     description:
       "A personal portfolio built with a focus on performance, SEO, and analytics. Includes structured metadata, full integration with modern analytics tools, and scores 91+ in real-world performance tests.",
     github_link: "https://github.com/dhakeddevendra5/DD.git",
-    demo: "https://devendra.vercel.app/",
+    demo: "https://dhakeddevendra5.vercel.app/",
     tech: ["React", "Framer Motion", "EmailJS", "Vercel Analytics"],
   },
   {
