@@ -1,0 +1,45 @@
+export const selfData = {
+  name: "Devendra Dhaked",
+  first_name: "Devendra",
+  last_name: "Dhaked",
+  jobTitle: "Software Developer",
+  workFor: "Self",
+  current_location: {
+    city: "Jaipur",
+    state: "Rajasthan",
+    country: "India",
+  },
+  DOB: {
+    dd: 10,
+    mm: 4,
+    yyyy: 2002,
+  },
+  email: "dhakeddevendra5@gmail.com",
+  roles: [
+    "Software Developer",
+    "Software Engineer",
+    "Java Developer",
+    "full-stack developer",
+    "Backend Developer",
+    "Web Developer",
+    "Frontend Developer",
+    "",
+  ],
+  desc: "I design and build tools that live on the internet—fast, reliable, and human‑friendly",
+  bio: "I’m a student developer focused on crafting intuitive web apps and turning ideas into accessible tools. I work across Java/Spring Boot and React, and I’m always exploring new technologies to improve performance and developer experience. I learn quickly, leverage AI tools like Copilot and Cursor to iterate faster, and ship features that feel polished and purposeful.",
+  about: [
+    "I’m Devendra Dhaked, a Java developer with hands-on experience building backend-heavy, production-ready web applications using Spring Boot, RESTful APIs, and microservices patterns, complemented by React on the frontend. I focus on writing clean, testable code and designing scalable systems, applying solid knowledge of Core and Advanced Java, multithreading, collections, JDBC, and Hibernate/JPA to deliver reliable services. I enjoy solving real-world problems through thoughtful system design, data modeling, and performance optimization, and I work comfortably across Git-based collaboration and CI/CD workflows",
+    "I graduated with a B.Tech in Information Technology from Poornima College of Engineering in May 2024 and have since continued sharpening my skills through projects, internships, and continuous learning. My toolkit includes Java, Spring Boot, Security, JPA/Hibernate, PostgreSQL/MySQL/MongoDB, React, Docker, and cloud deployments, along with Agile practices using Jira for iterative delivery. I value clear communication, teamwork, and ownership, and I’m motivated by opportunities where I can contribute to robust backend systems, deliver polished user experiences, and grow alongside a collaborative engineering team.",
+  ],
+
+  socials_username: {
+    facebook: "",
+    github: "dhakeddevendra5",
+    instagram: "",
+    leetcode: "dhakeddevendra5",
+    linkedin: "dhakeddevendra5",
+    snapchat: "",
+    telegram: "",
+    twitter: "",
+  },
+};
