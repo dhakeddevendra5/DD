@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api", "/private"],
       },
     ],
-    sitemap: "https://devendra.vercel.app/sitemap.xml",
+    sitemap: "https://dhakeddevendra5.vercel.app/sitemap.xml",
   };
 }
