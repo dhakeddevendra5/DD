@@ -19,7 +19,7 @@ export const selfData = {
     "Software Developer",
     "Software Engineer",
     "Java Developer",
-    "full-stack developer",
+    "Full Stack Developer",
     "Backend Developer",
     "Web Developer",
     "Frontend Developer",

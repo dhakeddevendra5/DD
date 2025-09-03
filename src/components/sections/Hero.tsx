@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button";
 import { selfData } from "@/constant";
 
 import { quentin, mono } from "@/app/fonts";
+import TextType from "../ui/TextType";
 
 export const Hero = () => {
   const ref = useRef(null);
@@ -55,14 +56,21 @@ export const Hero = () => {
             >
               {selfData.name}
             </motion.h1>
-            <motion.p
+            <motion.div
               className={`${mono.className} text-lg  md:text-md text-secondry-foreground`}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              {selfData.roles[0]}
-            </motion.p>
+              <TextType 
+                text={selfData.roles}
+                typingSpeed={75}
+                pauseDuration={1500}
+                showCursor={true}
+                cursorCharacter="|"
+              />
+              
+            </motion.div>
             <motion.p
               className="text-lg text-primary-foreground/80 max-w-2xl"
               initial={{ opacity: 0, y: 20 }}
